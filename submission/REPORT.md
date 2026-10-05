@@ -4,8 +4,10 @@
 
 ## Notebook đã chạy
 
-- GitHub: [lab_2d_perception_student.ipynb](https://github.com/vietvuivui/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb)
-- Xem nhanh (nbviewer): <https://nbviewer.org/github/vietvuivui/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb>
+Link notebook đã chạy: https://github.com/vietvuivui/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb
+
+Nếu GitHub không hiển thị được notebook (file khoảng 11 MB), xem bản nbviewer:
+<https://nbviewer.org/github/vietvuivui/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb>
 
 Notebook được chạy toàn bộ từ đầu đến cuối (Restart → Run All) trên Google Colab, GPU Tesla T4,
 `torch 2.11.0+cu130`, `ultralytics 8.4.171`, `device = cuda`. Output được giữ nguyên trong file.
